@@ -27,6 +27,9 @@ Face recognition using machine learning is becoming increasingly popular due to 
 #### Collecting Dataset
 <img src="https://user-images.githubusercontent.com/91594505/214209973-7eaa7bf8-23f3-41d7-8fc9-979eee5d211d.png">
 
+#### Dataset
+<img src="https://user-images.githubusercontent.com/91594505/214210184-72d74dbc-21f6-4550-833d-8b60f55b2a62.png">
+
 #### Face Recognition in action!
 <img src="https://user-images.githubusercontent.com/91594505/214209919-3f00361c-6d0c-4151-801b-71ee36813667.png">
 

@@ -11,6 +11,8 @@ Face recognition using machine learning is becoming increasingly popular due to 
 <ul>
   <li>Python 3
     <ul>
+      <li>Numpy</li>
+      <li>Pandas</li>
       <li>OpenCV</li>
       <li>haarcascade_frontalface_default.xml</li>
       <li>LBPH Algorithm</li>
@@ -22,5 +24,11 @@ Face recognition using machine learning is becoming increasingly popular due to 
 </ul>
 
 ### Glimpses
-<img src="https://user-images.githubusercontent.com/91594505/214207215-5c64a963-ec96-4a9b-ad6f-e80fb591b5ea.png">
+#### Collecting Dataset
+<img src="https://user-images.githubusercontent.com/91594505/214209973-7eaa7bf8-23f3-41d7-8fc9-979eee5d211d.png">
+
+#### Face Recognition in action!
+<img src="https://user-images.githubusercontent.com/91594505/214209919-3f00361c-6d0c-4151-801b-71ee36813667.png">
+
+
 

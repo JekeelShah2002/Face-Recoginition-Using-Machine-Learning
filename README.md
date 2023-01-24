@@ -7,6 +7,8 @@ Machine learning algorithms are trained on large datasets of facial images to le
 
 Face recognition using machine learning is becoming increasingly popular due to its ability to provide accurate and efficient identification while maintaining user privacy.
 ## Highlights
+<hr>
+
 ### Tools & Technologies Used
 <ul>
   <li>Python 3

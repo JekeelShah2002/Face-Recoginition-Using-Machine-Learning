@@ -18,4 +18,8 @@ Face recognition using machine learning is becoming increasingly popular due to 
     </ul>
   </li>
   <li>Visual Studio Code</li>
+  <li>PyCharm</li>
 </ul>
+### Glimpses
+![image](https://user-images.githubusercontent.com/91594505/214207215-5c64a963-ec96-4a9b-ad6f-e80fb591b5ea.png)
+
